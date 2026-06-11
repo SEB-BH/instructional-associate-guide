@@ -27,10 +27,9 @@ Every Thursday morning, post a weekly recap in the instructional Slack channel.
 
 Include:
 
-- Each student's absences
-- Each student's tardies
-- Each student's homework percentage
-- Students who are at risk
+- Each student's absences (if any)
+- Each student's tardies (if any)
+- Homework percentages for any students falling below 80%
 - Students who need follow-up
 
 ## When to Flag a Student
