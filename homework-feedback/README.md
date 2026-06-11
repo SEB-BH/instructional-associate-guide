@@ -75,11 +75,11 @@ Reply to this post.
 
 ## Complete Assignment Example
 
-![Complete assignment feedback example](../_assets/complete-assignment-feedback-example%201.png)
+![Complete assignment feedback example](./assets/complete-assignment-feedback-example.png)
 
 ## Missing Assignment Example
 
-![Incomplete assignment feedback example](../_assets/incomplete-not-on-track-homework-example.png)
+![Incomplete assignment feedback example](./assets/incomplete-not-on-track-homework-example.png)
 
 ## What Counts as Useful Feedback?
 
