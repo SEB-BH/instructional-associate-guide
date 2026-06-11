@@ -25,16 +25,10 @@ Post this in the instructional channel every day at 10:00 AM.
 :spiral_calendar_pad: Attendance Update — [Day, Date]
 
 Absent:
-- @student
+- students
 
 Late:
-- @student
-
-Notified ahead of time:
-- @student — [note]
-
-Unclear / needs follow-up:
-- @student — [note]
+- students
 ```
 
 ## Thursday Progress Recap
