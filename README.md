@@ -62,4 +62,4 @@ IAs are not expected to:
 - Manage every Slack channel in the workspace
 - Replace the lead instructor during lessons
 
-When a situation feels unclear, document what happened and ask the lead instructor.
+When a situation feels unclear, document what happened and ask the lead instructor - [Escalation Guide](./escalation-guide.md)
