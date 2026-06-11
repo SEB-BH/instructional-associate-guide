@@ -41,9 +41,6 @@ Post this in the instructional channel every Thursday morning.
 Attendance concerns:
 - @student — [absences/tardies]
 
-Homework concerns:
-- @student — [percentage]
-
 Students currently below 80% homework completion:
 - @student — [percentage]
 
