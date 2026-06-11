@@ -31,7 +31,6 @@ The form should collect:
 - GitHub repository link
 - Deployed link, if required
 - Notes for the instructional team
-- AI use disclosure
 
 > 💡 Ask the lead instructor for an example lab link before creating the form. This helps you see how homework is expected to be submitted.
 
