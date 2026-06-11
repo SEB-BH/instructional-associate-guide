@@ -18,10 +18,6 @@ Keep the message short and factual.
 
 ## Attendance Policy Reminder
 
-Use the current cohort policy confirmed by the lead instructor.
-
-For this cohort:
-
 - 3 tardies = 1 absence
 - 3 absences = attendance limit
 
