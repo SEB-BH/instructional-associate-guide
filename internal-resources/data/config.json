@@ -4,8 +4,8 @@
     "name": "modular-curriculum-all-courses"
   },
   "repo": {
-    "friendlyName": "Intro to HTML",
-    "name": "intro-to-html",
+    "friendlyName": "Instrucotor Associate Guide",
+    "name": "instructor-associate-guide",
     "type": "Lesson"
   },
   "courses": [
@@ -20,62 +20,32 @@
           "videoUrl": ""
         },
         {
-          "friendlyName": "History of HTML",
-          "dirName": "history-of-html",
+          "friendlyName": "Attendance & Tracking",
+          "dirName": "attendance-and-tracking",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Boilerplate",
-          "dirName": "boilerplate",
+          "friendlyName": "Student Communication",
+          "dirName": "student-communication",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Comments and Elements",
-          "dirName": "comments-and-elements",
+          "friendlyName": "Homework Feedback",
+          "dirName": "homework-feedback",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Element Attributes",
-          "dirName": "element-attributes",
+          "friendlyName": "Project Weeks",
+          "dirName": "project-weeks",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Nesting Elements",
-          "dirName": "nesting-elements",
-          "type": "Content",
-          "videoUrl": ""
-        },
-        {
-          "friendlyName": "Block vs Inline Elements",
-          "dirName": "block-vs-inline-elements",
-          "type": "Content",
-          "videoUrl": ""
-        },
-        {
-          "friendlyName": "Semantic HTML",
-          "dirName": "semantic-html",
-          "type": "Content",
-          "videoUrl": ""
-        },
-        {
-          "friendlyName": "Structural Pitfalls",
-          "dirName": "structural-pitfalls",
-          "type": "Content",
-          "videoUrl": ""
-        },
-        {
-          "friendlyName": "Why  index.html ?",
-          "dirName": "why-index",
-          "type": "Content",
-          "videoUrl": ""
-        },
-        {
-          "friendlyName": "Emmet",
-          "dirName": "emmet",
+          "friendlyName": "Templates",
+          "dirName": "templates",
           "type": "Content",
           "videoUrl": ""
         }
