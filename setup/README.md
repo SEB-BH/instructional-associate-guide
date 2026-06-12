@@ -26,11 +26,10 @@ Create one Google Form for students to submit homework.
 The form should collect:
 
 - Student name
-- Student email
-- Assignment name
+- Assignment name (dropdown)
 - GitHub repository link
 - Deployed link, if required
-- Notes for the instructional team
+- Notes for the instructional team, if required
 
 > 💡 Ask the lead instructor for an example lab link before creating the form. This helps you see how homework is expected to be submitted.
 
