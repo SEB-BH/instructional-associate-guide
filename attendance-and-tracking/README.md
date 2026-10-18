@@ -16,21 +16,16 @@ Include:
 
 Keep the message short and factual.
 
-## Attendance Policy Reminder
+## Thursday Morning Recap (Wednesday Evening for Part Time)
 
-- 3 tardies = 1 absence
-- 3 absences = attendance limit
-
-## Thursday Morning Recap
-
-Every Thursday morning, post a weekly recap in the instructional Slack channel.
+Every Thursday morning (or Wednesday Evening), post a weekly recap in the instructional Slack channel.
 
 Include:
 
 - Each student's absences (if any)
 - Each student's tardies (if any)
-- Homework percentages for any students falling below 80%
-- Students who need follow-up
+- Homework percentages for any students falling below 80% (if any)
+- Students who need follow-up (if any)
 
 ## When to Flag a Student
 
