@@ -27,6 +27,10 @@ Include:
 - Homework percentages for any students falling below 80% (if any)
 - Students who need follow-up (if any)
 
+Try to link to each student's slack profile so that our SSX team can easily follow up and reach out to the correct student.
+
+See this template: [Templates](../templates/README.md) 
+
 ## When to Flag a Student
 
 Tell the lead instructor when a student:
