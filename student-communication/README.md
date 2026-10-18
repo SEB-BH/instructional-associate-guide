@@ -36,7 +36,6 @@ Keep messages:
 - Clear
 - Professional
 - Encouraging
-- Direct
 - Short
 
 Students should understand what happened, why it matters, and what they should do next.
