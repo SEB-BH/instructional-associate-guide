@@ -7,7 +7,7 @@
 
 Send this message in each student's private Slack conversation by the end of Day 1.
 
-```text
+```bash
 Hi @student! Welcome to the cohort.
 
 This Slack conversation is your official communication channel with the Instructional Associates.
@@ -21,7 +21,7 @@ You can also reply here if you need help or if something affects your ability to
 
 Post this in the instructional channel every day at 10:00 AM.
 
-```text
+```bash
 :spiral_calendar_pad: Attendance Update — [Day, Date]
 
 Absent:
@@ -35,7 +35,7 @@ Late:
 
 Post this in the instructional channel every Thursday morning.
 
-```text
+```bash
 :bar_chart: Weekly Student Progress Recap — [Week #]
 
 Attendance concerns:
@@ -48,35 +48,6 @@ Students needing follow-up:
 - @student — [reason]
 ```
 
-## Homework Feedback Template
-
-```text
-:star: HOMEWORK FEEDBACK :star:
-=========================
-
-Student Name: @student
-
-Assignment:
-
-Grade: :+1: :-1:
-
-Lab Completion: 0 / 20 for 0%
-
-On Track to Pass: :white_check_mark: :x:
-
-Feedback:
-
-Next Steps:
-
-Incomplete assignments:
-
-Incomplete projects:
-
-Have a question about this feedback or your work?
-Reply to this post.
-
-=========================
-```
 
 ## AI Use Follow-Up
 
