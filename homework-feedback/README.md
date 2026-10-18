@@ -3,36 +3,35 @@
   <span class="subhead">Homework Feedback</span>
 </h1>
 
-## Due-Day Workflow
+## Homework Grading Guidelines
 
-Use this workflow every day an assignment is due.
+- **Assignments will be due the next dayy**
+- I find it best if one IA is responsible for classroom support, while the other is responsible for grading.  Each day you can switch responsibility back and forth.  Ultimately it is you decision how you would like to break down your labor, as long as both IAs agree on a system.
+- Please create a GitHub Issue on each student's submitted lab and leave feedback via the Issue.
 
-## By 10:00 AM
+## By 10:00 AM (6:30 PM for Part Time)
 
 Check the homework submission form.
 
 For each student who did **not** submit:
 
 1. Mark the assignment incomplete in the Course Tracker.
-2. Enter a 0 for that assignment.
-3. Send the homework feedback message immediately.
+2. Enter `incomplete` for that assignment.
+3. Send the homework feedback message immediately letting them know the homework is currently marked incomplete.
 
-Do not wait until all grading is finished.
-
-The missing-work message should happen early so the student can see how the missing assignment affects their progress.
+**Do not wait until all grading is finished.  The missing-work message should happen early so the student can see how the missing assignment affects their progress.**
 
 ## After Missing Work Is Recorded
 
-Spend the rest of the morning reviewing submitted work.
+Spend the rest of the morning (or evening) reviewing submitted work.
 
 For each submitted assignment:
 
 - Check whether the main requirements are complete.
 - Mark the assignment complete or incomplete.
-- Send the homework feedback message.
-- Add short feedback when useful.
+- Create the homework feedback Github Issue.
 
-Feedback can be brief.
+Feedback can be brief, especially when assignments are done correctly.  When done incorrectly, try to offer specific guidance.
 
 Examples:
 
@@ -40,46 +39,6 @@ Examples:
 - Nice job completing the requirements.
 - Good effort. Review the instructions again and resubmit the missing section.
 - Your repo link is missing. Please reply with the correct link.
-
-## Homework Feedback Template
-
-Use this template for every graded homework assignment.
-
-```text
-:star: HOMEWORK FEEDBACK :star:
-=========================
-
-Student Name: @student
-
-Assignment:
-
-Grade: :+1: :-1:
-
-Lab Completion: 0 / 20 for 0%
-
-On Track to Pass: :white_check_mark: :x:
-
-Feedback:
-
-Next Steps:
-
-Incomplete assignments:
-
-Incomplete projects:
-
-Have a question about this feedback or your work?
-Reply to this post.
-
-=========================
-```
-
-## Complete Assignment Example
-
-![Complete assignment feedback example](./assets/complete-assignment-feedback-example.png)
-
-## Missing Assignment Example
-
-![Incomplete assignment feedback example](./assets/incomplete-not-on-track-homework-example.png)
 
 ## What Counts as Useful Feedback?
 
@@ -90,8 +49,6 @@ Keep it short. One or two sentences is enough for most homework.
 ## If You Are Unsure How to Grade
 
 Do not guess silently.
-
-Instead:
 
 1. Add a note in the instructional channel.
 2. Ask the lead instructor to confirm.
