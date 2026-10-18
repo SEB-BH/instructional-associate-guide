@@ -26,7 +26,6 @@ This guide does **not** replace the student-facing course policies. It is meant 
 | [Attendance & Tracking](./attendance-and-tracking/README.md) | Daily attendance posts, Thursday summaries, risk flags |
 | [Student Communication](./student-communication/README.md) | Student Slack conversations, official updates, documentation |
 | [Homework Feedback](./homework-feedback/README.md) | Due-day workflow, grading process, feedback examples |
-| [Project Weeks](./project-weeks/README.md) | Daily project check-ins, support signals, escalation |
 | [Templates](./templates/README.md) | Copy/paste Slack templates |
 
 ## IA Priorities
